@@ -6,5 +6,5 @@
 ## 📖 학습 기록 📖
 
 - 🍭[현댕이의 티스토리] (https://iamellly0121.tistory.com)
-- 🍭[Git 기초 명령어 정리] (./Elly_TIL.md)
+- 🍭[Git 기초 명령어 정리] (./Git.md)
 - 🍭[Python 기초] 
