@@ -7,4 +7,4 @@
 
 - 🍭[현댕이의 티스토리] (https://iamellly0121.tistory.com)
 - 🍭[Git 기초 명령어 정리] (./Git.md)
-- 🍭[Python 기초] 
+- 🍭[Python 기초] (./Pyhton.md)
