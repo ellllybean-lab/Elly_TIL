@@ -1,7 +1,7 @@
-## 기본 명령어 모음 ##
+💡 기본 명령어 모음 💡
 
 ```bash
-# Basic 명령어 #
+💡 Basic 명령어 💡
 - cd (파일명) : 해당 폴더 이동
 - cd .. : 상위 폴더 이동
 - touch : 파일 생성
@@ -12,7 +12,7 @@
 ````
 
 ```sh
-# 기본 단축키 #
+💡 기본 단축키 💡
 
 - Command + Shift + P : 명령 팔레트 읽기
 - Command + P : 파일 이름 빠르게 찾기 
@@ -31,7 +31,7 @@
 ```
 
 ```bash
-# Git 명령어 #
+💡 Git 명령어 💡
 
 - git staus : 현재 상태
 - git branch (이름): 브랜치 목록과 현재 브랜치 확인/생성
@@ -43,7 +43,7 @@
 ```
 
 ```sh
-# GitHub 연결하기 #
+💡 GitHub 연결하기 💡
 
 - git remote -v : 연결된 원격 주소 확인
 - git remote add origin LINK : 원격주소 저장하기
