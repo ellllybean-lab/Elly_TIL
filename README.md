@@ -1,10 +1,37 @@
 
 # 📚 Elly's TIL 📚
 
-매일 공부한 내용을 기록하는 공간입니다.
+매일 공부한 내용을 기록하는 공간 
+-> 배운것 / 실수한 것 / 다시 확인할 것 정리하기
 
-## 📖 학습 기록 📖
+╰(*°▽°*)╯ 📌 바로가기
 
-- 🍭[현댕이의 티스토리] (https://iamellly0121.tistory.com)
-- 🍭[Git 기초 명령어 정리] (https://github.com/ellllybean-lab/Elly_TIL/blob/main/Git.md)
-- 🍭[Python 기초] (https://github.com/ellllybean-lab/Elly_TIL/blob/main/Python.md)
+- [📅 날짜별 공부 기록](#-날짜별-공부-기록)
+- [📚 주제별 정리](#-주제별-정리)
+- [💻 실습 프로젝트](#-실습-프로젝트)
+- [✍️ 블로그](https://iamellly0121.tistory.com/)
+
+## 📅 날짜별 공부 기록
+
+| 날짜 | 공부한 내용 |
+|---|---|
+| 2026.11.13 | [Docker · PostgreSQL · GitHub 실습](./TIL/2026-11-13.md) |
+
+## 📚 주제별 정리
+
+| 주제 | 기록 |
+|---|---|
+| 🐍 Python | 준비 중 |
+| 🐳 Docker | 준비 중 |
+| 🐘 PostgreSQL | 준비 중 |
+| 🌿 Git · GitHub | 준비 중 |
+
+## 💻 실습 프로젝트
+
+실제로 작성한 코드는 아래 저장소에 정리했습니다.
+
+👉 [KANT 실습 저장소 보러 가기](https://github.com/ellllybean-lab/KANT)
+
+---
+
+작게라도 매일 기록하기 🌱
