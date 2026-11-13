@@ -6,19 +6,19 @@
 ### 배우고 · 기록하는 중
 ### ꒰ ⸝⸝•ᴗ•⸝⸝ ꒱ ♡
 
-매일 조금씩 쌓아가는 기록장 📔  
+기록장 📔  
+<br>
 배운 것 / 실수한 것 / 다시 확인할 것
-
-## 🍰 Elly 의 티스토리
-### [🍓 현댕의기록 →](https://iamellly0121.tistory.com/)
 
 <br>
 
-**이해한 만큼 정리하기 **
+## 🍰 AX Engineer 🍰 
 
 [🏡 GitHub](https://github.com/ellllybean-lab) ୨୧
 [🍓 Blog](https://iamellly0121.tistory.com/) ୨୧
-[💻 Code](https://github.com/ellllybean-lab/KANT)
+[💻 Code](https://github.com/ellllybean-lab/KANT) ୨୧
+
+<br><br>
 
 ୨୧ ─────────────── ୨୧
 
@@ -75,23 +75,6 @@
 
 <br>
 
-<a name="daily"></a>
-
-## 🍓 하루 한 조각 TIL
-> (｡•̀ᴗ-)✧ 오늘 배운 것도 잊기 전에 기록!
-
-<details open>
-<summary><b>🧺 2026년 11월 기록 펼치기</b></summary>
-
-<br>
-
-| 날짜 | 오늘 공부한 것 | 기록 |
-|:---:|---|:---:|
-| 11.13 | Docker · PostgreSQL · SQL · GitHub | [📖 읽기](https://iamellly0121.tistory.com/15) |
-
-</details>
-
-<br>
 
 ## 🩹 실수도 내 공부니까 > ( •́ ᴗ •̀ ) 
 
