@@ -1,109 +1,70 @@
+<a name="top"></a>
 
 <div align="center">
 
-# ˚₊· ͟͟͞͞➳❥ Elly’s TIL 🧸
+# ˚₊· Elly’s TIL 🧸
 
+배운 것 · 실수한 것 · 다시 확인할 것  
+꒰ ⸝⸝•ᴗ•⸝⸝ ꒱ 이해한 만큼 차곡차곡 기록하기 ෆ
 
-<div align="center">
-
-### 기록장 📔
-배운 것 · 실수한 것 · 다시 확인할 것
-
-<br>
-
-| ୨୧ 나의 공간 ୨୧  | ୨୧ 공부하러 가기 ୨୧ |
-|:---:|:---:|
-| [🏡 GitHub](https://github.com/ellllybean-lab) | [📔 공부 노트](#notes) |
-| [🍓 Tistory](https://iamellly0121.tistory.com/) | [🧸 실습 코드](#projects) |
-| [💻 KANT](https://github.com/ellllybean-lab/KANT) | [🗂️ 저장소 모음](#repos) |
-
-<br>
+[🍓 Tistory](https://iamellly0121.tistory.com/) · [🏡 GitHub](https://github.com/ellllybean-lab)
 
 </div>
+
+---
+
+| 📔 개념 정리 | 🧸 직접 해보기 |
+|:---:|:---:|
+| [공부 노트 ↓](#notes) | [실습 코드 ↓](#projects) |
 
 <a name="notes"></a>
 
 ## 📔 공부 노트
-> ꒰ᐢ. .ᐢ꒱ 오늘 이해한 것을 남기기
 
-| 주제 | 펼쳐보기 |
-|:---:|---|
-| 🐍 Python | [파이썬 공부 노트 →](./Python.md) |
-| 🌱 Git · GitHub | [Git 공부 노트 →](./Git.md) |
-| 🐳 Docker · PostgreSQL | [실습 파일과 명령어 →](https://github.com/ellllybean-lab/KANT/tree/main/02_database/pg_lab) |
+> ꒰ᐢ. .ᐢ꒱ 배운 내용을 내 말로 정리하기
 
-<br>
+| 주제 | 노트 |
+|---|---|
+| 🐍 Python | [파이썬 정리](./Python.md) |
+| 🌱 Git · GitHub | [Git 정리](./Git.md) |
 
 <a name="projects"></a>
 
 ## 🧸 실습 코드
-> (ง •̀ᴗ•́)ง 직접 만들고 실행하면서 배우는 중
 
-| 실습 | 코드 보러 가기 |
-|:---:|---|
-| 🐣 파이썬 기초 · 프로젝트 | [01_phyton →](https://github.com/ellllybean-lab/KANT/tree/main/01_phyton) |
-| ✏️ 수업 실습 | [class-study02 →](https://github.com/ellllybean-lab/KANT/tree/main/class-study02) |
-| ✊ 가위바위보 게임 | [rps_game →](https://github.com/ellllybean-lab/KANT/tree/main/rps_game) |
-| 🛒 쇼핑몰 프로젝트 | [쇼핑몰 코드 →](https://github.com/ellllybean-lab/KANT/tree/main/shopingmall_%ED%99%A9%ED%98%84%EC%A0%95) |
-| 🐘 데이터베이스 | [PostgreSQL · Docker →](https://github.com/ellllybean-lab/KANT/tree/main/02_database/pg_lab) |
+> (ง •̀ᴗ•́)ง 만들고 실행하면서 배우는 중
 
-<br>
-
-<a name="repos"></a>
-
-## 🗂️ 나의 저장소
-> ꒰ •͈ᴗ•͈ ꒱ 필요한 곳으로 이동
-
-| 저장소 | 담아둔 것 |
+| 실습 | 코드 |
 |---|---|
-| [📚 Elly_TIL](https://github.com/ellllybean-lab/Elly_TIL) | 배운 내용과 실수 기록 |
-| [💻 KANT](https://github.com/ellllybean-lab/KANT) | 수업 실습 파일 모음 |
-| [🐍 python-first-project](https://github.com/ellllybean-lab/python-first-project) | 파이썬 첫 프로젝트 |
-| [📝 Pyhton_Assignment](https://github.com/ellllybean-lab/Pyhton_Assignment) | 파이썬 과제 |
+| 🐣 파이썬 기초 · 프로젝트 | [01_phyton](https://github.com/ellllybean-lab/KANT/tree/main/01_phyton) |
+| ✏️ 수업 실습 | [class-study02](https://github.com/ellllybean-lab/KANT/tree/main/class-study02) |
+| ✊ 가위바위보 | [rps_game](https://github.com/ellllybean-lab/KANT/tree/main/rps_game) |
+| 🛒 쇼핑몰 | [쇼핑몰 프로젝트](https://github.com/ellllybean-lab/KANT/tree/main/shopingmall_%ED%99%A9%ED%98%84%EC%A0%95) |
+| 🐳 Docker · PostgreSQL | [DB 실습](https://github.com/ellllybean-lab/KANT/tree/main/02_database/pg_lab) |
 
-<br>
-
-
-## 🩹 실수도 내 공부니까 > ( •́ ᴗ •̀ ) 
+## 🩹 잊지 않기
 
 <details>
-<summary><b>💌 체크리스트</b></summary>
+<summary>💌 공부할 때 확인할 것</summary>
 
-<br>
+- 명령어를 입력하는 위치 확인하기
+- 수정한 파일은 저장하고 실행하기
+- 오류는 첫 번째 메시지부터 읽기
+- 삭제·업로드 전 대상 확인하기
+- 배운 것과 해결한 과정을 내 말로 남기기
 
-- [ ] 지금 Bash인지 PowerShell인지 확인하기
-- [ ] 터미널 명령과 SQL 입력창 구분하기
-- [ ] 실행 중인 컨테이너 이름 확인하기
-- [ ] 코드 수정 후 저장했는지 확인하기
-- [ ] 오류가 여러 개면 첫 번째 오류부터 읽기
-- [ ] DB를 삭제하는 명령인지 확인하고 실행하기
-- [ ] GitHub에 올릴 파일 목록 확인하기
-
-=> 급할수록 한 줄씩 읽고 실행하기 🐢
+=> 급할수록 한 줄씩 읽기 🐢
 
 </details>
 
-<br>
-
-## 🌷 나의 기록 약속
-
-**①** 오늘 무엇을 했는지 적기  
-**②** 코드와 명령어의 의미를 내 말로 풀어쓰기  
-**③** 실수한 이유와 해결 방법 남기기  
-**④** 다음에 다시 확인할 것 적기  
-
-<br>
+---
 
 <div align="center">
 
-୨୧ ─────────────── ୨୧
-
 ### ꒰ঌ 오늘도 하나 배웠다 ໒꒱
 
-**어제보다 하나라도 더 이해하면 성공 ෆ**
+어제보다 하나라도 더 이해하면 성공 ෆ
 
-[☁️ 맨 위로 올라가기](#-ellys-little-til-)
+[☁️ 맨 위로](#top)
 
-
-୨୧ ─────────────── ୨୧
 </div>
