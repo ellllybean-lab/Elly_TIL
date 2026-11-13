@@ -26,7 +26,7 @@
 | 주제 | 노트 |
 |---|---|
 | 🐍 Python | [파이썬 정리](./Python.md) |
-| 🌱 Git · GitHub | [Git 정리](./Git.md) |
+| 🌱 Git · GitHub | [Git 공부 노트](./Git/README.md)|
 
 <a name="projects"></a>
 
