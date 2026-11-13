@@ -3,35 +3,23 @@
 
 # ˚₊· ͟͟͞͞➳❥ Elly’s TIL 🧸
 
-### 배우고 · 기록하는 중
-### ꒰ ⸝⸝•ᴗ•⸝⸝ ꒱ ♡
 
-기록장 📔  
+<div align="center">
+
+### 기록장 📔
+배운 것 · 실수한 것 · 다시 확인할 것
+
 <br>
-배운 것 / 실수한 것 / 다시 확인할 것
+
+| ୨୧ 나의 공간 ୨୧  | ୨୧ 공부하러 가기 ୨୧ |
+|:---:|:---:|
+| [🏡 GitHub](https://github.com/ellllybean-lab) | [📔 공부 노트](#notes) |
+| [🍓 Tistory](https://iamellly0121.tistory.com/) | [🧸 실습 코드](#projects) |
+| [💻 KANT](https://github.com/ellllybean-lab/KANT) | [🗂️ 저장소 모음](#repos) |
 
 <br>
-
-## 🍰 AX Engineer 🍰 
-
-[🏡 GitHub](https://github.com/ellllybean-lab) ୨୧
-[🍓 Blog](https://iamellly0121.tistory.com/) ୨୧
-[💻 Code](https://github.com/ellllybean-lab/KANT) ୨୧
-
-<br><br>
-
-୨୧ ─────────────── ୨୧
 
 </div>
-
-## 🧁 Menu
-
-| 공부 |
-|:---:|:---:|
-| [📔 공부 노트](#notes) | [🧸 실습 코드](#projects) |
-| [🗂️ 저장소 모음](#repos) | [🍓 날짜별 기록](#daily) |
-
-<br>
 
 <a name="notes"></a>
 
@@ -116,4 +104,6 @@
 
 [☁️ 맨 위로 올라가기](#-ellys-little-til-)
 
+
+୨୧ ─────────────── ୨୧
 </div>
